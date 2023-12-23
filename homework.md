@@ -50,3 +50,5 @@ DiningVillagers(Beyza Sungar, Mustafa Eren Tugcu, Rukiye Tura)
 Emre Özcan, Elanur İleri, Sema Nimet Ünal
 
 Mehmet Alpergün, Selvanur Kıraç
+
+MENDERES (Selahattin Deniz Döktür, Efecan Erdem)
